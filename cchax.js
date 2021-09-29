@@ -24,7 +24,7 @@ const rl = readline.createInterface({
 });
 
 // Boot image
-figlet.text('CC DUCK WORKS', {
+figlet.text('CC  DUCK  WORKS', {
     font: 'doom',
     horizontalLayout: 'default',
     verticalLayout: 'default',
@@ -39,7 +39,9 @@ figlet.text('CC DUCK WORKS', {
     console.log(data);
     console.log("                                                                By S1mp1y Ducky")
     console.log(" ")
-    console.log(" Please Select Your Prefered Option of Choice from the List: ")
+    console.log(" ----------------------------------------------------------------------------------- ")
+    console.log(" [ NOTICE ] Update the program next week for working credit cards updated every week!")
+    console.log(" ----------------------------------------------------------------------------------- ")
     console.log(" ")
     console.log(" ------------------------ Options -------------------------- ")
     console.log(" ")
