@@ -1,0 +1,26 @@
+{
+  "name": "cchax",
+  "version": "1.0.0",
+  "description": "A simple program that uses API to generate or check Credit Cards",
+  "main": "cchax.js",
+  "scripts": {
+    "test": "."
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "keywords": [
+    "ccgen",
+    "cc",
+    "cc",
+    "checker"
+  ],
+  "author": "S1mp1y Ducky",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "figlet": "^1.5.2",
+    "readline": "^1.3.0"
+  }
+}
